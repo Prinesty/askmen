@@ -1,0 +1,115 @@
+/** Alignments **/
+html,
+body {
+  font-size: 16px;
+}
+
+.main {
+  margin: 1rem auto;
+  max-width: 50%;
+}
+
+.image img {
+  width: 100%;
+}
+
+.head,
+.image {
+  margin: 2rem auto;
+}
+
+.image h3, p {
+  padding: 0.75rem 0;
+}
+
+.image h3 {
+  font-size: 1.4rem;
+  font-weight: bold;
+}
+
+.image p {
+  font-size: 1rem;
+}
+
+header p {
+  font-size: 1rem;
+  font-weight: bold;
+  text-align: center;
+  padding: 1rem;
+}
+
+h2 {
+  font-size: 1.5rem;
+  color: white;
+  background-color: black;
+  text-align: center;
+  font-weight: lighter;
+  padding: 1rem;
+  margin: 1rem auto;
+}
+
+a {
+  text-decoration: none;
+  color:inherit;
+}
+
+.deal p {
+  font-size: 1rem;
+  text-align: center;
+}
+
+.deal p a {
+  text-decoration: underline;
+}
+
+.sale p {
+  font-size: 1.4rem;
+  text-align: justify;
+  color: red;
+  font-weight: bold;
+  margin-bottom: 1rem;
+}
+
+p.button {
+  background-color: teal;
+  border-radius: 4px;
+  padding: 1rem 2rem;
+  color: white;
+  display: inline-block;
+  margin-top: -1rem;
+  font-size: 1.2rem;
+}
+
+.editor img {
+  margin-bottom: 1rem;
+  width: 100%;
+}
+
+.editor {
+  margin-bottom: 1rem;
+}
+
+.text p.button {
+  margin-top: 1rem;
+}
+
+.text p span {
+  color: firebrick;
+}
+
+.disclaimer p {
+  text-align: center;
+  line-height: 1.2;
+}
+
+.disclaimer p span {
+  text-decoration-line: underline;
+  font-weight: bold;
+}
+
+.social {
+  text-align: center;
+  line-height: 1.5;
+  background-color: black;
+  color: white;
+}
